@@ -20,3 +20,4 @@ test1="I love Git"
 >>>>>>> 69ebeae0ed9dc9afd7699cfe3628ebbb187d2437
 
 print("Vazhdojm pak me ndryshimet")
+print("izaura domi")
